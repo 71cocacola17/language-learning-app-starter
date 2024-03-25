@@ -1,0 +1,1 @@
+self.head = new_node
