@@ -1,0 +1,1 @@
+while last_node.next:
